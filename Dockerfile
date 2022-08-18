@@ -1,3 +1,3 @@
 
-FROM k8s.gcr.io/kube-apiserver:v1.17.3
+FROM registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.1.1
 MAINTAINER csit8886@gmail.com
